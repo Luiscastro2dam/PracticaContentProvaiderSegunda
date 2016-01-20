@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_mostrarMusica"
+        android:title="@string/menuPrincipal_mostrarMusica"/>
+    <item
+        android:id="@+id/menu_mostrarDiscos"
+        android:title="@string/menuPrincipal_mostrarDiscos"/>
+    <item
+        android:id="@+id/menu_mostrarAudiobd"
+        android:title="@string/menuPrincipal_mostrarAudiodb"/>
+    <item
+        android:id="@+id/menu_mostrSincronicar"
+        android:title="@string/menuPrincipal_mostrarSincronizar"/>
+    <item
+        android:id="@+id/menu_mostraArtistas"
+        android:title="@string/menuPrincipal_mostrarArtistas"/>
+</menu>

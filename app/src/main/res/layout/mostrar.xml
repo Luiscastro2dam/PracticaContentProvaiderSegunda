@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="200dp">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/img" />
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="New Text"
+        android:id="@+id/tv1"
+        android:layout_gravity="right"
+        android:gravity="center"
+        android:width="40dp"
+        android:textSize="26dp" />
+
+    <TextView
+        android:layout_width="378dp"
+        android:layout_height="40dp"
+        android:text="New Text"
+        android:id="@+id/tv2"
+        android:layout_gravity="right"
+        android:gravity="center"
+        android:width="40dp"
+        android:textSize="26dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="New Text"
+        android:id="@+id/tv3"
+        android:gravity="center"
+        android:width="40dp"
+        android:textSize="26dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="New Text"
+        android:id="@+id/tv4"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:width="40dp"
+        android:textSize="26dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="New Text"
+        android:id="@+id/tv5"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:width="40dp"
+        android:textSize="26dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="New Text"
+        android:id="@+id/tv6"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:width="40dp"
+        android:textSize="26dp" />
+
+</LinearLayout>

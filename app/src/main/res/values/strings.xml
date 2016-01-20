@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PracticaMusicaContentProvaider</string>
+
+    <string name="menuPrincipal_mostrarMusica">Musica</string>
+    <string name="menuPrincipal_mostrarDiscos">Discos</string>
+    <string name="menuPrincipal_mostrarAudiodb">Musica-BD</string>
+    <string name="menuPrincipal_mostrarSincronizar">Sincronizar-BD</string>
+    <string name="menuPrincipal_mostrarArtistas">Informacion</string>
+    <string name="menuPrincipal_mostrarcanciones">Canciones</string>
+</resources>
